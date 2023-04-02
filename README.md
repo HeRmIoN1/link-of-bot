@@ -2,7 +2,7 @@
 get link of a discord bot , only with user id >>>>
 
 
-cd Desktop 
+```cd Desktop``` 
 
 git clone https://github.com/HeRmIoN1/link-of-bot.git
 
